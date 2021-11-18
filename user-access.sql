@@ -7,7 +7,7 @@ CREATE USER ruan@localhost identified by '654321';
 SELECT user, host
 FROM mysql.user;
 
-GRANT ALL PRIVILEGES ON mydb.* to gabriel@'187.6.88.190';
+GRANT ALL PRIVILEGES ON mydb.* to gabriel@'187.6.00.000';
 GRANT SELECT, INSERT, CREATE, UPDATE, DELETE
 ON mydb.* TO bruno@'192.168.100.5';
 GRANT SELECT, INSERT, CREATE, UPDATE, DELETE
