@@ -1,9 +1,3 @@
-# database
- MySQL
-
- ## EER Model
-![image info](https://github.com/gmsmoreno/database/blob/main/EER-Model.JPG)
-
 # REGISTER INSERTIONS
 ## Medical Registers
     INSERT INTO medico (nome_medico, CRM, contato_medico, atestado_medico, declarante_medico, atend_falecido_med, assinatura_medico) 
