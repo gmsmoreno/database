@@ -2,7 +2,7 @@
  MySQL
 
  ## EER Model
-![image info]()
+![image info](https://github.com/gmsmoreno/database/blob/main/EER-Model.JPG)
 
 # REGISTER INSERTIONS
 ## Medical Registers
