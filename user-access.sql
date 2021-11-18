@@ -1,5 +1,5 @@
 -- DEFINIÇÃO DE USUÁRIOS E ACESSO
-CREATE USER gabriel@'187.0.0.000' identified by '123456'; -- IP GLOBAL
+CREATE USER gabriel@'187.0.00.000' identified by '123456'; -- IP GLOBAL
 CREATE USER bruno@'192.168.000.0' identified by '654321'; -- IP LOCAL
 CREATE USER luan@localhost identified by '654321';
 CREATE USER ruan@localhost identified by '654321';
