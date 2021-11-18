@@ -14,7 +14,7 @@ GRANT SELECT, INSERT, CREATE, UPDATE, DELETE
 ON mydb.* TO luan@localhost;
 GRANT SELECT, INSERT, CREATE, UPDATE, DELETE
 ON mydb.* TO ruan@localhost;
-SHOW GRANTS FOR 'gabriel'@'187.6.0.000';
+SHOW GRANTS FOR 'gabriel'@'187.6.00.000';
 SHOW GRANTS FOR bruno@'192.168.000.0';
 SHOW GRANTS FOR luan@localhost;
 SHOW GRANTS FOR ruan@localhost;
